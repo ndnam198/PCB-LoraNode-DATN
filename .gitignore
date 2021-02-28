@@ -4,4 +4,7 @@
 /__Previews
 
 # Output file: pdf, etc...
+/Project Outputs for LoraNode
+*.rar
+*.htm
 LoraNode.pdf
